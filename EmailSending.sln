@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSending", "EmailSending\EmailSending.csproj", "{4DE2C754-165D-44C1-9DCD-BBB586E88279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessAccesLayer", "BusinessAccesLayer\BusinessAccesLayer.csproj", "{B4A9A7DC-ED37-4E82-AA9F-6CCC41105217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALClass", "DALClass\DALClass.csproj", "{DA997EF7-A0F7-4450-A8CE-07F5AB752229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE2C754-165D-44C1-9DCD-BBB586E88279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE2C754-165D-44C1-9DCD-BBB586E88279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE2C754-165D-44C1-9DCD-BBB586E88279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE2C754-165D-44C1-9DCD-BBB586E88279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4A9A7DC-ED37-4E82-AA9F-6CCC41105217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4A9A7DC-ED37-4E82-AA9F-6CCC41105217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4A9A7DC-ED37-4E82-AA9F-6CCC41105217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4A9A7DC-ED37-4E82-AA9F-6CCC41105217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA997EF7-A0F7-4450-A8CE-07F5AB752229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA997EF7-A0F7-4450-A8CE-07F5AB752229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA997EF7-A0F7-4450-A8CE-07F5AB752229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA997EF7-A0F7-4450-A8CE-07F5AB752229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
